@@ -7,7 +7,7 @@ public class Main {
 
 		
 		System.out.printf("%d * %f = %f\n", weight, gravity, weight * gravity);
-		
+		System.out.println(1);
 	}
 
 }
